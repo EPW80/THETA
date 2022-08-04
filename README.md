@@ -1,4 +1,4 @@
-# Interactive MERN SPA Project
+# THETA
 
 This project is a social media app where users can share their thoughts as well as images with other users. Users are able to create, update, and delete posts. This application uses Graphql, Mongo, Express, React, and Node for a true realtime web application. Frontend uses latest Hooks from React, React Router and Apollo Client for performing Queries, Mutations and Subscriptions. This Project also utilizes React Hooks including Context API to achieve Redux like architecture.
 
@@ -9,7 +9,7 @@ This project is a social media app where users can share their thoughts as well 
 - Test User Credentials
     - Click on **`Login`** for Testing
 
-- #### Github Repository [link](https://github.com/EPW80/Interactive-MERN-SPA-Project)
+- #### Github Repository [link](https://github.com/EPW80/THETA)
 
 ### Technology and Modules used for this Project
 
