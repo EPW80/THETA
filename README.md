@@ -36,7 +36,7 @@ This project is a social media app where users can share their thoughts as well 
 ![screenshot](./client/public/angelshot.jpg)
 
 
-### TODO:
+### COMPLETE:
 
 - Email Verification by Google API
 - User Profile Image upload feature (Cloudinary API)
@@ -45,7 +45,7 @@ This project is a social media app where users can share their thoughts as well 
 
 ---
 
-## Collaborators
+## Team
 
 Erik Williams
 <br>
